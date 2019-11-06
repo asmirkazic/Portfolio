@@ -1,0 +1,52 @@
+h1 {
+  color:royalblue;
+}
+
+body {
+  background-image: linear-gradient(to right, #fa709a 00%, #fee140 130%);
+}
+
+a {
+  font-weight:bold;
+  background-color:inherit;
+  color: royalblue;
+  text-decoration:none;
+  text-transform: uppercase;
+}
+
+table {
+  border-collapse: collapse;
+  width: 10%;
+}
+
+th, td {
+  text-align: center;
+}
+
+tr:nth-child(even) {
+  background-color: silver;
+}
+
+a:hover {
+  color:magenta;
+  font-size: 1.3em;
+}
+
+h3 {
+  color:crimson;
+}
+
+img {
+  border-style:outset;
+  border-color:lawngreen;
+  border-width:4px;
+  width:25%;
+}
+
+.tab {
+  margin-left:30px;
+}
+
+.custom {
+  background-color: dodgerblue;
+}
