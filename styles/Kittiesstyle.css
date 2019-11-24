@@ -1,0 +1,43 @@
+.header {
+  font-family: sans-serif;
+  line-height: 0.8;
+  padding: 25px;
+  padding-left: 140px;
+  text-align: left;
+  color: white;
+  font-size: 30px;
+  background-color:rgb(80, 175, 200);
+}
+
+.note {
+ line-height: 0.1;
+ font-style: italic;
+}
+
+.navbar {
+  padding: 20px;
+  padding-left: 140px;
+  font-size: 13px;
+  background-color:rgb(223, 222, 209);
+  font-weight: bold;
+}
+
+a~p {
+    font-family: georgia, serif;
+    display: inline;
+    padding: 4px;
+}
+ 
+a:link {
+    color:rgb(30, 30, 30);
+}
+
+.indent {
+    padding:20px;
+    color:rgb(80, 175, 200);
+    font-size: 15px;
+}
+
+h2 {
+    padding-left:140px;
+}
