@@ -49,3 +49,12 @@ img {
   border-color:lawngreen;
   border-width:4px;
 }
+
+.box {
+  display: flex;
+  align-items: center;
+}
+
+i {
+  margin-left: 10px;
+}
