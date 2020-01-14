@@ -27,8 +27,8 @@ th, td {
   align-items: center;
 }
 
-tr:nth-child(even) {
-  background-color: silver;
+tr:nth-child(odd) {
+  background-color: darkgray;
 }
 
 a:hover {

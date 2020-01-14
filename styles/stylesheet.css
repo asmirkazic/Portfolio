@@ -1,5 +1,7 @@
-h1 {
-  color:royalblue;
+h1:hover {
+  color: royalblue;
+  transition-duration: 3s;
+  transform: rotateY(360deg);
 }
 
 body {
@@ -24,8 +26,8 @@ th, td {
   text-align: center;
 }
 
-tr:nth-child(even) {
-  background-color: silver;
+tr:nth-child(odd) {
+  background-color: darkgray;
 }
 
 a {
